@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_new_work">add new work</string>
+    <string name="add">add</string>
+    <string name="task_name">輸入項目名稱</string>
+    <string name="enter">確定</string>
+    <string name="add_task_button">新增項目</string>
+    <string name="cancel">取消</string>
+</resources>
