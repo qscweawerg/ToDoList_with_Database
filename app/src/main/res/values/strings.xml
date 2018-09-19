@@ -6,4 +6,6 @@
     <string name="enter">確定</string>
     <string name="add_task_button">新增項目</string>
     <string name="cancel">取消</string>
+    <string name="Return">Return</string>
+    <string name="page2">Page2</string>
 </resources>

@@ -15,10 +15,22 @@
     <android.support.v7.widget.RecyclerView
         android:id="@+id/list_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="50dp"
+        android:layout_height="442dp"
+        android:layout_marginTop="32dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="166dp"
+        android:layout_height="37dp"
+        android:layout_marginLeft="108dp"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="52dp"
+        android:text="@string/page2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
